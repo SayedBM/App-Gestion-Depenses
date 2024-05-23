@@ -17,7 +17,13 @@ N'hésitez pas à contribuer au projet ou à soumettre vos suggestions d'amélio
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/SayedBM/App-Gestion-Depenses/assets/150054270/7fbfec5b-83db-4ad2-9b40-8cbb0062eb3f)
+
+![image](https://github.com/SayedBM/App-Gestion-Depenses/assets/150054270/12f7c574-2715-481a-bccd-edf0af4e4b3e)
+
+![image](https://github.com/SayedBM/App-Gestion-Depenses/assets/150054270/a6c3b173-1acd-4725-9166-96cad3770f79)
+
+![image](https://github.com/SayedBM/App-Gestion-Depenses/assets/150054270/0da0cb77-cfb0-437d-a3e6-667b499c28bb)
 
 
 ## Fonctionnalités
