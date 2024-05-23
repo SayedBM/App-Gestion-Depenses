@@ -1,0 +1,14 @@
+D:\C#\23-24\Depenses\bin\Debug\Depenses.exe.config
+D:\C#\23-24\Depenses\bin\Debug\Depenses.exe
+D:\C#\23-24\Depenses\bin\Debug\Depenses.pdb
+D:\C#\23-24\Depenses\obj\Debug\Depenses.csproj.AssemblyReference.cache
+D:\C#\23-24\Depenses\obj\Debug\Depenses.csproj.SuggestedBindingRedirects.cache
+D:\C#\23-24\Depenses\obj\Debug\Depenses.Form1.resources
+D:\C#\23-24\Depenses\obj\Debug\Depenses.Properties.Resources.resources
+D:\C#\23-24\Depenses\obj\Debug\Depenses.csproj.GenerateResource.cache
+D:\C#\23-24\Depenses\obj\Debug\Depenses.csproj.CoreCompileInputs.cache
+D:\C#\23-24\Depenses\obj\Debug\Depenses.exe
+D:\C#\23-24\Depenses\obj\Debug\Depenses.pdb
+D:\C#\23-24\Depenses\obj\Debug\Depenses.categoei.resources
+D:\C#\23-24\Depenses\obj\Debug\Depenses.FormDepense.resources
+D:\C#\23-24\Depenses\obj\Debug\Depenses.FormIndex.resources
