@@ -45,3 +45,7 @@ N'hésitez pas à contribuer au projet ou à soumettre vos suggestions d'amélio
 - POO 
 - SQL Serveur
 
+ ## Informations complaimentaire 
+ Base de donnée : BDgestionDepense.bacpac (sqlServeur)
+ 
+
